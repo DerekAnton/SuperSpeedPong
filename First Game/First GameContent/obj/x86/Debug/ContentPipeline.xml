@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Font.spritefont</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2012-05-14T10:18:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimeFont.spritefont</Source>
+      <Name>Fonts\TimeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Fonts\TimeFont.xnb</Output>
+      <Time>2012-06-01T12:34:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Paddle.png</Source>
+      <Name>Sprites\Paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Paddle.xnb</Output>
+      <Time>2012-05-27T16:56:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Background.jpg</Source>
+      <Name>Sprites\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Background.xnb</Output>
+      <Time>2012-05-27T16:43:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player1Score.png</Source>
+      <Name>Sprites\Player1Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Player1Score.xnb</Output>
+      <Time>2012-06-01T08:36:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player2Score.png</Source>
+      <Name>Sprites\Player2Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Player2Score.xnb</Output>
+      <Time>2012-06-01T10:58:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Pallet.png</Source>
+      <Name>Sprites\Pallet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Pallet.xnb</Output>
+      <Time>2012-06-13T10:37:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Medium_Sized_Sphere.bmp</Source>
+      <Name>Sprites\Medium_Sized_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Medium_Sized_Sphere.xnb</Output>
+      <Time>2012-06-01T19:53:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Large_Sized_Sphere.png</Source>
+      <Name>Sprites\Large_Sized_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Large_Sized_Sphere.xnb</Output>
+      <Time>2012-05-27T20:35:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Small_Sized_Sphere.bmp</Source>
+      <Name>Sprites\Small_Sized_Sphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Small_Sized_Sphere.xnb</Output>
+      <Time>2012-06-02T11:32:50-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blackemerald.png</Source>
+      <Name>Sprites\blackemerald</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\blackemerald.xnb</Output>
+      <Time>2012-06-04T17:25:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\outlinedblackemerald.png</Source>
+      <Name>Sprites\outlinedblackemerald</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\outlinedblackemerald.xnb</Output>
+      <Time>2012-06-04T17:46:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blackedit.png</Source>
+      <Name>Sprites\blackedit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\blackedit.xnb</Output>
+      <Time>2012-06-04T19:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PauseScreen.png</Source>
+      <Name>Sprites\PauseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\PauseScreen.xnb</Output>
+      <Time>2012-06-17T12:06:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\countdownShort.png</Source>
+      <Name>Sprites\countdownShort</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\countdownShort.xnb</Output>
+      <Time>2012-06-22T15:36:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\PaddleHit.wav</Source>
+      <Name>Audio\PaddleHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\PaddleHit.xnb</Output>
+      <Time>2012-06-11T09:38:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\WallHit.wav</Source>
+      <Name>Audio\WallHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\WallHit.xnb</Output>
+      <Time>2012-06-11T11:05:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\beginsound.wav</Source>
+      <Name>Audio\beginsound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\beginsound.xnb</Output>
+      <Time>2012-06-11T13:44:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Score.wav</Source>
+      <Name>Audio\Score</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\Score.xnb</Output>
+      <Time>2012-06-11T12:07:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\MainTheme.mp3</Source>
+      <Name>Audio\MainTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\MainTheme.xnb</Output>
+      <Extra>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\MainTheme.wma</Extra>
+      <Time>2012-06-11T11:37:26-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-12T19:28:07.8171726-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

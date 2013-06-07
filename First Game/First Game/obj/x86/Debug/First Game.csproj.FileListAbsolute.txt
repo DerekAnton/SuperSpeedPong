@@ -1,0 +1,54 @@
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\First Game.exe
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\First Game.pdb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\obj\x86\Debug\First Game.exe
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\obj\x86\Debug\First Game.pdb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Paddle.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Background.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Player1Score.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Player2Score.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Pallet.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Fonts\TimeFont.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Medium_Sized_Sphere.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Large_Sized_Sphere.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Small_Sized_Sphere.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\blackemerald.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\outlinedblackemerald.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\blackedit.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\PaddleHit.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\WallHit.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\MainTheme.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\MainTheme.wma
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\beginsound.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\Score.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\PauseScreen.xnb
+C:\Users\Derek\Documents\Visual Studio 2010\Projects\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\countdownShort.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Fonts\TimeFont.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Paddle.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Background.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Player1Score.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Player2Score.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Pallet.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Medium_Sized_Sphere.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Large_Sized_Sphere.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\Small_Sized_Sphere.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\blackemerald.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\outlinedblackemerald.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\blackedit.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\PauseScreen.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Sprites\countdownShort.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\PaddleHit.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\WallHit.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\beginsound.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\Score.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\MainTheme.xnb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\Content\Audio\MainTheme.wma
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\First Game.exe
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\bin\x86\Debug\First Game.pdb
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\obj\x86\Debug\First Game.exe
+C:\Users\lDantonl\Documents\Visual Studio 2010\Projects\C#\First Game\First Game\First Game\obj\x86\Debug\First Game.pdb
